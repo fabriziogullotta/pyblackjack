@@ -1,4 +1,3 @@
-========WIP========
+========WIP========<br><br>
 A simple CLI blackjack.
-Right now it works just for Player vs CPU (with simple/no logic)
-===================
+Right now it just work with Player vs CPU (with simple/no logic). Don't know if it will get updates
